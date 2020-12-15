@@ -1,0 +1,11 @@
+---
+id: nfr-004
+title: Usability
+kind: modify/register/item
+description: >-
+  An average software team member should be able to onboard and configure a 
+  repository from scratch in under 5 mins. Common actions used to edit and 
+  commit docs in the repository shall have shortcut keys
+---
+'  enter your data here'
+

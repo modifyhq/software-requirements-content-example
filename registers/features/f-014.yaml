@@ -1,0 +1,10 @@
+---
+id: f-014
+title: Jobs
+kind: modify/register/item
+description: >-
+  Run build and publish jobs using using popular build tools (e.g. Gatsby,
+  NextJS) CI servies (GitHub Actions) and hosting services (Netlify, AWS S3).
+---
+'  enter your data here'
+

@@ -1,0 +1,28 @@
+---
+id: user-stories-register
+title: User stories register
+kind: modify/register
+schema:
+  id: default
+  columns:
+    - id: id
+      title: Id
+      accessor: frontmatter.id
+    - id: title
+      title: Title
+      accessor: frontmatter.title
+    - id: description
+      title: Description
+      accessor: frontmatter.description
+    - id: justification
+      title: Justification
+      accessor: frontmatter.justification
+    - id: acceptance-criteria
+      title: Acceptance criteria
+      accessor: frontmatter.acceptance-criteria
+    - id: relationships
+      title: Relationships
+      accessor: frontmatter.relationships
+  defaultSortColumnId: id
+---
+  enter your data here

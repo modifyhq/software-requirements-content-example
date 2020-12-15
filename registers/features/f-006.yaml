@@ -1,0 +1,11 @@
+---
+id: f-006
+title: Git connectors
+kind: modify/register/item
+description: >-
+  Read-write integrations with Git repositories hosted in Modify, GitHub and
+  Bitbucket (with OAuth  external providers) for version control and users
+  staying in control of their data.
+---
+'  enter your data here'
+

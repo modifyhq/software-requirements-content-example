@@ -1,0 +1,14 @@
+---
+id: us-003
+title: Create a Modify-hosted connector
+kind: modify/register/item
+description: >-
+  As a Team Member I want to create a connector to Modify-hosted Git repo So
+  that I can try out Modify quickly
+justification: >-
+  - A Modify Git repository means users can get going quickly without
+  integrating an external Git provider
+relationships: [e-001], [f-006]
+---
+'  enter your data here'
+

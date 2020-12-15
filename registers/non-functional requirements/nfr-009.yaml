@@ -1,0 +1,11 @@
+---
+id: nfr-009
+title: Security
+kind: modify/register/item
+description: >-
+  User data must be encrypted in transit and stored on encrypted volumes at 
+  rest. Initially users will be able to login only with a valid Google or 
+  GitHub account using OAuth. 
+---
+'  enter your data here'
+

@@ -1,0 +1,19 @@
+---
+id: features-register
+title: Features register
+kind: modify/register
+schema:
+  id: default
+  columns:
+    - id: id
+      title: Id
+      accessor: frontmatter.id
+    - id: title
+      title: Title
+      accessor: frontmatter.title
+    - id: description
+      title: Description
+      accessor: frontmatter.description
+  defaultSortColumnId: id
+---
+  enter your data here

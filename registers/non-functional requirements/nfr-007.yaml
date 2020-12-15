@@ -1,0 +1,11 @@
+---
+id: nfr-007
+title: Interoperability
+kind: modify/register/item
+description: >-
+  Modify shall integrate with numerous external services e.g. GitHub, 
+  and Bitbucket for git storage, GitHub Actions for job execution, 
+  and Netlify and AWS S3 for publishing rendered artifacts.
+---
+'  enter your data here'
+

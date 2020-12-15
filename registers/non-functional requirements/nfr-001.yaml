@@ -1,0 +1,11 @@
+---
+id: nfr-001
+title: Availability
+kind: modify/register/item
+description: >-
+  The system shall be available at least XX% of the XX:XX-XX:XX GMT. 
+  This shall exclude failures of external services e.g. AWS, GitHub and 
+  Bitbucket.
+---
+'  enter your data here'
+

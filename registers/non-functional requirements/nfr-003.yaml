@@ -1,0 +1,10 @@
+---
+id: nfr-003
+title: Reliability
+kind: modify/register/item
+description: >-
+  The mean time between failures of the repository page shall be XX days.
+  Failure of a Job shall always be accompanied by a useful error message.
+---
+'  enter your data here'
+

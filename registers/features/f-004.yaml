@@ -1,0 +1,10 @@
+---
+id: f-004
+title: Markdown and MDX
+kind: modify/register/item
+description: >-
+  Create docs in markdown, and add React components using MDX to enrich docs
+  visually.
+---
+'  enter your data here'
+

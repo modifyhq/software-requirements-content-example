@@ -1,0 +1,11 @@
+---
+id: nfr-008
+title: Scalability
+kind: modify/register/item
+description: >-
+  The application must be able to scale to support X,XXX concurrent users 
+  (c.X,XXX total users) on an AWS infrastructure burn of not more than 
+  $X,XXX pcm.
+---
+'  enter your data here'
+

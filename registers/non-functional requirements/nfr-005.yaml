@@ -1,0 +1,10 @@
+---
+id: nfr-005
+title: Robustness
+kind: modify/register/item
+description: >-
+  The text editor shall never lose data in a user's working copy when it fails 
+  for whatever reason
+---
+'  enter your data here'
+

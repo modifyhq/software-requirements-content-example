@@ -1,0 +1,10 @@
+---
+id: f-007
+title: YAML front matter
+kind: modify/register/item
+description: >-
+  Supported in markdown, MDX and yaml files for improved searching and
+  referencing
+---
+'  enter your data here'
+

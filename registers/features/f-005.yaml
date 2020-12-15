@@ -1,0 +1,10 @@
+---
+id: f-005
+title: Yaml registers
+kind: modify/register/item
+description: >-
+  Version controlled tabular data in yaml with schemas, and changes that can be
+  preview using the register GUI.
+---
+'  enter your data here'
+

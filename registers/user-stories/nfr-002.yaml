@@ -1,0 +1,15 @@
+---
+id: us-002
+title: Create a Bitbucket connector
+kind: modify/register/item
+description: >-
+  As a Team Member I want to create a connector to Bitbucket So that I can store
+  my data in a remote Git repo I control
+justification: >-
+  - Users need to connect a Git repository before they can start creating,
+  building and publishing docs - It's important users are given the option to
+  host data in external Git repos they control
+relationships: [e-001], [f-006]
+---
+'  enter your data here'
+

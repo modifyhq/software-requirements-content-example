@@ -1,0 +1,11 @@
+---
+id: nfr-002
+title: Performance
+kind: modify/register/item
+description: >-
+  First contentful paint of < XX milliseconds. Performance for common actions 
+  such as creating a connector, loading files, navigating between files, 
+  branching a workspace and committing changes must be < XX milliseconds.
+---
+'  enter your data here'
+
