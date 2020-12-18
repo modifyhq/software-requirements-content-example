@@ -4,7 +4,7 @@ title: Vision and scope
 description: Business requirements grouped into a single deliverable; used as basis for subsequent development work.
 ---
 
-<InfoMessage header="Alternative names" content="Marketing requirements document (MRD)"
+<InfoMessage header="Alternative names" content="Marketing requirements document (MRD)">
 
 This adapts a template by Karl Wiegers. You can find a preview at: https://www.processimpact.com/process_assets/vs_preview.pdf. 
 
