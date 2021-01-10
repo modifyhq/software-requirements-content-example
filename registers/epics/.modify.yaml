@@ -14,15 +14,9 @@ schema:
     - id: description
       title: Description
       accessor: frontmatter.description
-    - id: justification
-      title: Justification
-      accessor: frontmatter.justification
-    - id: acceptance-criteria
-      title: Acceptance criteria
-      accessor: frontmatter.acceptance-criteria
-    - id: notes
-      title: Notes
-      accessor: frontmatter.notes
+    - id: relationships
+      title: Relationships
+      accessor: frontmatter.relationships
   defaultSortColumnId: id
 ---
   enter your data here
